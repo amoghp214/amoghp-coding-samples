@@ -16,9 +16,7 @@
 13. YOLO Algorithm - https://drive.google.com/drive/folders/1i_CLMd8CLxrlUyuaXGfsteSzZS9QpnHH?usp=sharing
 
 
-
-
-
+##
 ## Neural Layer Bypassing Network (NLBN) using TensorFlow & Keras: (Authored by Amogh Palasamudram)
 #### National Grand Award Winner & International Finalist @ Regeneron ISEF 2022
 #### Published on TechRxiv & R42 Institute; invited to present research at CECNet 23 & Sigma X IFoRE Summit
@@ -32,9 +30,7 @@ About: https://www.techrxiv.org/articles/preprint/Neural_Layer_Bypassing_Network
 7. Pruned NLBN - eurosat: https://colab.research.google.com/drive/11n7y0_tdccQNVp-C_mvGzKJrl_EZhuTW?usp=sharing
 
 
-
-  
-
+##
 ## Smart and Safe AI-Powered Gun using MSFT Azure & Python: (Authored by Amogh Palasamudram - all credits mentioned in source code)
 #### National Finalist at Microsoft Imagine Cup (top 0.3% of 10,000 projects)
 #### Published in 35+ national news websites (eg. ABC Action News, Fox47News)
