@@ -29,6 +29,10 @@ About: https://www.techrxiv.org/articles/preprint/Neural_Layer_Bypassing_Network
 6. Pruned NLBN - Horses_or_Humans: https://colab.research.google.com/drive/1PA3yE6LPpF5VzZNPJQwsvxNyvsvq2rxD?usp=sharing
 7. Pruned NLBN - eurosat: https://colab.research.google.com/drive/11n7y0_tdccQNVp-C_mvGzKJrl_EZhuTW?usp=sharing
 
+##
+## Uncertainty Quantification for CNNs
+### Utilized my novel NLBN architecture to create a more comprehensive method for uncertainty quantification.
+GitHub Repository - https://github.com/amoghp214/CNN-uncertainty-quantification
 
 ##
 ## Smart and Safe AI-Powered Gun using MSFT Azure & Python: (Authored by Amogh Palasamudram - all credits mentioned in source code)
